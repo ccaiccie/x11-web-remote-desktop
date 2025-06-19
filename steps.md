@@ -1,8 +1,5 @@
 Here's a **detailed write-up in Markdown format**, including **step-by-step configuration**, **challenges faced**, and **why each decision was made** — ideal for a technical blog or documentation.
 
----
-
-````markdown
 # 🔐 Browser-Based Remote Access to Ubuntu Desktop using x11vnc and noVNC (with Auto Login)
 
 This guide details how to set up secure, browser-accessible remote desktop access to Ubuntu using `x11vnc` and `noVNC`, including auto-login at boot. It includes real-world issues faced during configuration and how they were resolved.
